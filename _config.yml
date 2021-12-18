@@ -68,3 +68,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - _posts/example_post.markdown
