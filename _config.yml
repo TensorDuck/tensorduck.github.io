@@ -62,3 +62,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - helper_scripts*
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
