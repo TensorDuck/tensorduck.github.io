@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Well Designed Meals"
 date:   2021-12-16 19:00:00 +0800
 categories: food taiwan

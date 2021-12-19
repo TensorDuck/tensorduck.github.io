@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "First meal in Taiwan!"
 date:   2021-12-14 23:30:00 +0800
 categories: food taiwan

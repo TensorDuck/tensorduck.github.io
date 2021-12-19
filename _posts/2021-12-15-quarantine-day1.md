@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Multitude of Flavors from Taiwan!"
 date:   2021-12-15 19:00:00 +0800
 categories: food taiwan
