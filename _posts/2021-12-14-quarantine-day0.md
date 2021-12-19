@@ -6,9 +6,13 @@ categories: food taiwan
 
 ---
 
-![demo image](/assets/taiwan_2021/quarantine_day0_food.jpeg)
+![midnight-snack](/assets/taiwan_2021/day0_meal1.jpg)
 
-Meal: Fried pork-chop with fried-tofu, napa cabbage, and bamboo shoots.
+Meal:
+* Fried pork-chop
+* fried-tofu
+* Napa cabbage
+* bamboo shoots.
 
 The first meal I had after getting off the plane in Taiwan. The hotel had these boxes
 ready for us when we arrived.
