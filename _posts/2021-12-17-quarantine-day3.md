@@ -1,13 +1,13 @@
 ---
 layout: posts
-title:  "A Whole New World (of Meal Types)"
+title:  "Hotel Quarantine Day 3: A Whole New World (of Meal Types)"
 date:   2021-12-17 19:00:00 +0800
-categories: food taiwan
-
+tags: food taiwan covid quarantine
+categories: life
 ---
 
 Going into this day, I thought I understood the routine. Three times a day, you get a
-box of food with several dishes. But today, every meal was a little different!
+box of food with several dishes. But today, every meal was wildly different from before!
 
 ## Breakfast
 

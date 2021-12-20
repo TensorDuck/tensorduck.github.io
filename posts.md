@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "All Posts"
 layout: posts
 permalink: /posts-all/
 ---

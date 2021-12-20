@@ -1,10 +1,13 @@
 ---
 layout: posts
-title:  "Well Designed Meals"
+title:  "Hotel Quarantine Day 2: Well Designed Meals"
 date:   2021-12-16 19:00:00 +0800
-categories: food taiwan
-
+tags: food taiwan covid quarantine
+categories: life
 ---
+
+Going into day 2, I'm so far impressed with the variety. Let's see if it can continue
+for another day.
 
 ## Breakfast
 

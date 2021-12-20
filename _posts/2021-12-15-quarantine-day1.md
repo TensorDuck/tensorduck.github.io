@@ -1,10 +1,12 @@
 ---
 layout: posts
-title:  "Multitude of Flavors from Taiwan!"
+title:  "Hotel Qurantine Day 1: Multitude of Flavors from Taiwan!"
 date:   2021-12-15 19:00:00 +0800
-categories: food taiwan
-
+tags: food taiwan covid quarantine
+categories: life
 ---
+
+The first full day of quarantine, I wasn't sure what to expect.
 
 ## Breakfast
 

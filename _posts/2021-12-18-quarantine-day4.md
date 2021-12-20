@@ -1,12 +1,13 @@
 ---
 layout: posts
-title:  "Finally a Scallion Pancake"
+title:  "Hotel Quarantine Day 4: Finally a Scallion Pancake"
 date:   2021-12-18 19:00:00 +0800
-categories: food taiwan
-
+tags: food taiwan covid quarantine
+categories: life
 ---
 
-Slight return to normalcy, but still some new dishes.
+Slight return to normalcy, but still some new dishes. Perhaps hotel quarantine is
+wearing on me.
 
 ## Breakfast
 

@@ -1,16 +1,16 @@
 ---
 layout: posts
-title:  "Finally a Scallion Pancake"
+title:  "Hotel Quarantine Day 5: The Low-Point of Quarantine"
 date:   2021-12-19 19:00:00 +0800
-categories: food taiwan
-
+tags: food taiwan covid quarantine
+categories: life
 ---
 
-A very unhealthy day.
+A very unhealthy day of food. I am starting to look forward to the end of quarantine.
 
 ## Breakfast
 
-![breakfast](/assets/taiwan_2021/day5_meal1a.jpg)
+![breakfast](/assets/taiwan_2021/day5_meal1.jpg)
 * Deep-fried flat bread sandwich
 * Deep-fried long-dough inside
 * Soy milk
@@ -24,51 +24,64 @@ food can bring you back to a happy memory.
 
 ## Lunch
 
-![lunch](/assets/taiwan_2021/day4_meal2a.jpg)
-* Curry chicken
-* Sauted lettuce
-* Wood ear with cilantro
-* Napa cabbage
-* Flour soup
-* pineapple
+![lunch](/assets/taiwan_2021/day5_meal2a.jpg)
+A noodle bowl with beef and seafood.
+* Slice of beef
+* Fried egg
+* Fish cake
+* Mushroom
+* Meatball
+* Slice of Squid
+* Some vegetables
 
-A much more normal meal. We discussed the different kinds of Asian curies there are. The
-style of curry in Taiwan is actually quite runny. Apparently, In order to emulate other
-curries, the Taiwanese focused on getting the color closer to yellow, rather than
-changing the texture and flavor.As a result, I think I always preferred this kind of
-sweet and savory curry over the incredibly spicy varieties.
+This meal honestly came as a shock. It had so few vegetable and lower variety. Our
+working hypothesis by this point is that the hotel is providing smaller lighter meals on
+this day because so many guests ordered night market food the previous night!
 
-The cilantro on the wood ear was a nice touch, can't say I've tried that before,
-although it is typical in the area. THe other vegetable dishes worked well, but didn't
-stick out. I'm starting to think there has to be a standard set of sides that's repeated
-in these different boxes.
+In any case, the broth was the best part. It had a light savory flavor and was slightly
+thickened. However, there was only one of each ingredient, I felt the meal changed
+substantially as I ate more of the food.
 
-![lunch](/assets/taiwan_2021/day4_meal2b.jpg)
+It starts off as a very beef focused noodle bowl.
+![lunch](/assets/taiwan_2021/day5_meal2b.jpg)
 
-One interesting thing to note was the soup today. It apparently involved some kind of
-boiled flower with bits of pork at the bottom. The result was a soup that wasn't very
-salty, but it was very fragrant. It was an interesting experience to take in flavor
-primarily through the nose. I have to say, it was a lot of fun.
+And then became a very squid focused noodle bowl.
+![lunch](/assets/taiwan_2021/day5_meal2c.jpg)
+
+In the end, the meal was kind of light and not particularly exciting. On top of that, it
+was relatively low on vegetables. As fun as it was to mix things up, by this point, the
+day felt like the lightest day for food. Maybe quarantine meals are finally starting to
+wear us down?
+
+## Bonus
+![cake](/assets/taiwan_2021/day5_bonus.jpg)
+So because the first two meals of the day were so disappointing, we decided to get some
+takeout. This was from a cafe called Louisa, and it was a black forest boston cream pie
+cake. It was pretty rich, and not too heavy on the chocolate flavor, but the cream was
+light and fluffy!
 
 ## Dinner
 
-![dinner-main](/assets/taiwan_2021/day4_meal3.jpg)
+![dinner-main](/assets/taiwan_2021/day5_meal3.jpg)
 * Rice bowl
-* Green vegetables
-* Beef with sauce (We think it's oyster-sauce like?)
-* Tofu with cucumber
-* Pickled sauted daikon with carrots
+* Cabbage
+* Greens
+* Spicy lotus root
+* Spicy chicken
 
-It was interesting, that even on day 4, there's interesting new items in each meal. The
-beef was well done and the sauce was great, though we couldn't figure out what they did
-with the sauce exactly. The tofu dish was interesting. Though I realized at the end of
-the meal, the cucumber was an essential element to cut down on the sourness. The funny
-story there is: they forgot to slice my cucumber so I had just one big cucumber chunk,
-but my wife had slices of cucumber in her dish that made it a lot better!
+Back to something more typical, maybe I've been conditioned to prefer typical meals now
+from the hotel? In any case, this meal was flavorful, but also the spiciest meal of our
+stay so far. We were guessing it was a Thai inspired dish since it had hints of lemon
+and basil with the heavy spice. I was glad the final quarantine meal of the day ended
+on a good note.
 
-The final dish that was strange was the daikon. I couldn't quite place what happened
-with it. It seemed kind of picled, but it was clearly cooked with carrots. But it wasn't
-cooked so much that the flavor became sweet. Instead, it had a soft outside and a bit
-harder when biting into it.
+## Second Bonus - Fried Chicken
 
-Not my favorite dishes today, but I at least had something interesting in every meal.
+So because we were all still feeling a bit unsatisfied from the day, we ended up
+ordering some more food from "Taiwan Chicken" on the Food Panda App. Honestly, it felt
+like a great final cap to the day to be able to eat some popcorn chicken, fried silk
+melon, sweet potato fries with plum powder, and finally fried sticky rice. I was so
+excited I didn't get a picture!
+
+It's interesting, by this point, I realize I might be really accustomed to their more
+typical meal boxes. But I'm also starting to crave the freedom to eat what I want.

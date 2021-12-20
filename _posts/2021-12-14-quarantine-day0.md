@@ -1,9 +1,12 @@
 ---
 layout: posts
-title:  "First meal in Taiwan!"
+title:  "Hotel Quarantine Day 0: First meal in Taiwan!"
 date:   2021-12-14 23:30:00 +0800
-categories: food taiwan
+tags: food taiwan covid quarantine
+categories: life
 ---
+
+We just arrived at the hotel exhausted, and a bento box was waiting for us!
 
 ![midnight-snack](/assets/taiwan_2021/day0_meal1.jpg)
 
