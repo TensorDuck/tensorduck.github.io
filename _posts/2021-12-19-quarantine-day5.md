@@ -80,8 +80,8 @@ on a good note.
 So because we were all still feeling a bit unsatisfied from the day, we ended up
 ordering some more food from "Taiwan Chicken" on the Food Panda App. Honestly, it felt
 like a great final cap to the day to be able to eat some popcorn chicken, fried silk
-melon, sweet potato fries with plum powder, and finally fried sticky rice. I was so
-excited I didn't get a picture!
+melon, sweet potato fries white pepper, and finally fried taro. I was so excited I
+didn't get a picture!
 
 It's interesting, by this point, I realize I might be really accustomed to their more
 typical meal boxes. But I'm also starting to crave the freedom to eat what I want.
