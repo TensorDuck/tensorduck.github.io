@@ -17,10 +17,10 @@ A very unhealthy day of food. I am starting to look forward to the end of quaran
 
 Now this is a food that out Americas America. It's deep-fried flat bread sandwich, and
 the inside is more deep-fried dough. The intention is that there would be a bowl of soy
-milk to dip the bread into, but sadly, there we only had soy milk to drink. Still, despite
-appearances, the food is actually quite good. It actually brings back memories of my
-grandparents. They were always fond of eating this kind of food for brunch on weekends. It never ceases to amaze me how
-food can bring you back to a happy memory.
+milk to dip the bread into, but sadly, there we only had soy milk to drink. Still,
+despite appearances, the food is actually quite good. It actually brings back memories
+of my grandparents. They were always fond of eating this kind of food for brunch on
+weekends. It never ceases to amaze me how food can bring you back to a happy memory.
 
 ## Lunch
 
