@@ -10,9 +10,7 @@ The final full day of quarantine... will the rally continue?
 
 ## Breakfast
 
-![breakfast](/assets/taiwan_2021/day7a.jpg)
-
-![breakfast](/assets/taiwan_2021/day7b.jpg)
+![breakfast](/assets/taiwan_2021/day7_meal1a.jpg)
 
 * Hash brown burger with ham, egg, lettuce, onions, cucumber
 * Sunkiss orange
@@ -22,7 +20,7 @@ Much to my surprise, this might be the best breakfast I had so far in quarantine
 I thought I would only be eating some ham with eggs between some bread, but the inside of the burger ended up being packed with flavor:
 
 
-![breakfast](/assets/taiwan_2021/day7b.jpg)
+![breakfast](/assets/taiwan_2021/day7_meal1b.jpg)
 
 So far, this is the most American tasting food I've had in Taiwan. Even though the hash
 brown wasn't very crunchy, the potato itself was very well shredded and had a smooth
@@ -63,7 +61,7 @@ level meals if we truly wanted to.
 
 ## Dinner
 
-![dinner-main](/assets/taiwan_2021/day5_meal3.jpg)
+![dinner-main](/assets/taiwan_2021/day7_meal3.jpg)
 * Pork belly with a thickened soy sauce
 * Pumpkin
 * Glass noodle with spicy cucumber

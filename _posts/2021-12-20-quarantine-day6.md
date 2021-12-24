@@ -10,7 +10,7 @@ After a disappointing day 5, will day 6 improve?
 
 ## Breakfast
 
-![breakfast](/assets/taiwan_2021/day6.jpg)
+![breakfast](/assets/taiwan_2021/day6_meal1.jpg)
 * Gyoza
 * Chicken nuggets
 * Orange
@@ -24,7 +24,7 @@ the rally continue in lunch?
 
 ## Lunch
 
-![lunch](/assets/taiwan_2021/day7_meal6.jpg)
+![lunch](/assets/taiwan_2021/day7_meal2.jpg)
 * Fried fish
 * Half egg and a slice of sausage
 * Taro
