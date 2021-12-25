@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hotel Qurantine Day 1: Multitude of Flavors from Taiwan!"
 date:   2021-12-15 19:00:00 +0800
 tags: food taiwan covid quarantine

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hotel Quarantine Day 4: Finally a Scallion Pancake"
 date:   2021-12-18 19:00:00 +0800
 tags: food taiwan covid quarantine

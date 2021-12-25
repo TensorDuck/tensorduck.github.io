@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hotel Quarantine Day 3: A Whole New World (of Meal Types)"
 date:   2021-12-17 19:00:00 +0800
 tags: food taiwan covid quarantine

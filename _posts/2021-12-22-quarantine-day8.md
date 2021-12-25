@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hotel Quarantine Day 8: The Last Breakfast"
 date:   2021-12-22 19:00:00 +0800
 tags: food taiwan covid quarantine

@@ -42,6 +42,8 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+  auto_ids: true
+
 
 exclude:
   - helper_scripts*

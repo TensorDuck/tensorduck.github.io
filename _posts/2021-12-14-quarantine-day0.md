@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hotel Quarantine Day 0: First meal in Taiwan!"
 date:   2021-12-14 23:30:00 +0800
 tags: food taiwan covid quarantine

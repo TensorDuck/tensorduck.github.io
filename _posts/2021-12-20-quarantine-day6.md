@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hotel Quarantine Day 6: The Hotel Rallies"
 date:   2021-12-20 19:00:00 +0800
 tags: food taiwan covid quarantine
