@@ -22,17 +22,18 @@ rooms themselves, which is one of the reasons why we chose a hotel to mitigate s
 the drawbacks of a spartan room.
 
 In any case, the food quality honestly blew me away. For example there was the
-[breakfast on day 7]({{ site.baseurl }}/life/2021/12/21/quarantine-day7.html#breakfast)
+[breakfast on day 7]({% link _posts/2021-12-21-quarantine-day7.md %}#breakfast)
 (potato hash brown burger) and
-[day 4]({{ site.baseurl }}/life/2021/12/18/quarantine-day4.html#breakfast)
+[day 4]( {% link _posts/2021-12-18-quarantine-day4.md %}#breakfast)
 (scallion pancakes with chicken) that were just downright tasty. And the
-[dinner from day 1]({{ site.baseurl}}/life/2021/12/15/quarantine-day1.html#dinner)
+[dinner from day 1]({% link _posts/2021-12-15-quarantine-day1.md%}#dinner)
 (bbq pork bento) was just a well put-together meal. Many of these boxes I can easily
 imagine paying 10+ USD in the US, so I never had a feeling of missing out or being given
 sub-par food from the hotel.
 
+
 Even the worst meal, the
-[lunch from day 7]({{ site.baseurl }}/life/2021/12/21/quarantine-day7.html#lunch),
+[lunch from day 7]({% link _posts/2021-12-21-quarantine-day7.md %}#lunch),
 (rice ball soup) didn't feel cheap so much as just small. This kind of dish is not
 considered a cheap item relative to the other lunches we received, and it was nice to
 have a thematic holiday meal at the time anyways. The main drawback of just being too
