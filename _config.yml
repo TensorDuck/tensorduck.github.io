@@ -60,6 +60,10 @@ exclude:
   - _posts/example_post.markdown
   - WIP/*
 
+# disable RSS Feed, maybe will want in future!
+atom_feed:
+  hide: true
+
 # defaults
 defaults:
   # _posts
