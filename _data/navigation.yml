@@ -1,6 +1,8 @@
 main:
   - title: "Blog"
     url: /posts-all/
+  - title: "Coding"
+    url: /category-coding
   - title: "Life"
     url: /category-life/
   - title: "All Tags"
