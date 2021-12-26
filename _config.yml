@@ -51,6 +51,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - _posts/example_post.markdown
+  - WIP/*
 
 # defaults
 defaults:
