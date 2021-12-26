@@ -45,6 +45,13 @@ kramdown:
   auto_ids: true
 
 
+# collections
+collections:
+  guides:
+    permalink: /:collection/:path/
+    output: true
+
+
 exclude:
   - helper_scripts*
   - Gemfile
@@ -61,3 +68,11 @@ defaults:
       type: posts
     values:
       show_date: true
+  # _guides
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      author_profile: false
+      share: false

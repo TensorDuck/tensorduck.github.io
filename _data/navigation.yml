@@ -5,7 +5,10 @@ main:
     url: /category-coding
   - title: "Life"
     url: /category-life/
+  - title: "Guides"
+    url: /guides/
   - title: "All Tags"
     url: /tags/
   - title: "About"
     url: /about/
+
