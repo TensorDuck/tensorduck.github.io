@@ -33,8 +33,8 @@ sub-par food from the hotel.
 
 
 Even the worst meal, the
-[lunch from day 7]({% link _posts/2021-12-21-quarantine-day7.md %}#lunch),
-(rice ball soup) didn't feel cheap so much as just small. This kind of dish is not
+[lunch from day 7]({% link _posts/2021-12-21-quarantine-day7.md %}#lunch)
+(rice ball soup), didn't feel cheap so much as just small. This kind of dish is not
 considered a cheap item relative to the other lunches we received, and it was nice to
 have a thematic holiday meal at the time anyways. The main drawback of just being too
 light was mitigated since the hotel can handle deliveries. And to that final point - the
