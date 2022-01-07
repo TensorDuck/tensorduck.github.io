@@ -3,7 +3,7 @@ layout: single
 title:  "My Adventure with Golang"
 date:   2021-12-26 03:00:00 +0800
 tags: programming golang
-categories: coding
+categories: technical
 ---
 
 One day, I needed to process 70-million records in JSON format and Python just broke.

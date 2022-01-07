@@ -1,8 +1,8 @@
 main:
   - title: "Blog"
     url: /posts-all/
-  - title: "Coding"
-    url: /category-coding
+  - title: "Technical"
+    url: /category-technical
   - title: "Life"
     url: /category-life/
   - title: "Guides"
