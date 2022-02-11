@@ -38,3 +38,48 @@ science with religion, the eastern versus western religion, the history with the
 masterfully. But a few things really stuck out to me and I just had to find a place to
 gush about it.
 
+## History from a Different Perspective
+
+The first thing to notice about her stories - it draws heavily from Chinese history. But
+the history is from the perspective of a Chinese peasant in the 1900's, not the typical
+history that is taught in the US. As a result, I felt that I understood much more about
+modern day China as a result.
+
+And Kuang is very subtle about how the history mixes in with her own story. She
+accomplishes this with small details. The story follows a peasant girl Rin and you feel
+her helplessness at her life situation. Not just through her poverty and class status.
+But when Rin fights in a war, she feels hopeless and technologically out-matched by her
+opponents. Later as she encounters more people in her journey, she starts to even feel
+the weight of condescension from the foreigners she encounters. For example, in the
+second book she encounters a missionary who by all accounts is polite, but still sees
+her as barely human due to her being "uncivilized" - a real feeling that many Chinese
+probably felt as their country was occupied by multiple foreign powers.
+
+Reading the book, I was forced to rethink much of what I learned in school. In a way, it
+even gave me a better understanding of my parent's and grandparent's generations. The struggles
+they must have faced and in the end, what motivated them so strongly to escape it. Kuang
+really managed to get the reader to sympathize with the plight of Chinese people in the mid 1900's.
+
+## Kuang Includes ALL the Bad Parts of War
+
+This is a small point, but Kuang manages to capture all the bad parts of war down to the
+worst details and handles the events with the deference they deserve. Authors like
+George R. R. Martin will give cursory mentions to atrocities committed in a war. But
+Kuang leans hard into the details and describes all the worst parts of it. I read about
+the rape of Nanjing in school, but those books only talk about the numbers, estimates,
+and if you're lucky, how historians came up with the estimates. But none of that
+compares to reading about the actual accounts of victims. In this way, the true weight
+of all the mass murders, rapes, and other crimes committed during the Rape of Nanjing is
+felt by the reader. And the sad part is, she didn't have to exagerates or make up any
+stories. Kuang is definitely an author who can write a convincing anti-war argument
+simply from the perspective of how much suffering is imparted onto civilians as a result
+of any war.
+
+## Rin the Protagonist is Complicated
+
+Rin evokes a lot of sympathy. She grows up poor, she's looked down upon by everyone she meets, and she starts off just wanting to escape poverty, a noble goal! As she experiences war, she witnesses and experiences the atrocities first hand and we feel the same pain she
+does. And at the end of the first book, when she chooses to end the war by effectively destroying her enemies' island (much like how the US dropped two atomic bombs in Japan), the reader feels the complexity of that decision. Kuang shows the conflict that can exist in any
+war, of logically knowing it's wrong to commit a genocide, even in response to a genocide, with the emotion of wanting revenge after experiencing a genocide. This logic versus
+emotion fight plays out and the reader feels both sides of the argument. And it's hard to not
+agree with what she chooses in the end. Even though I know logically she shouldn't have done it, I can't help but feel the same visceral satisfaction she does from finally ending the war and saving her people.
+
