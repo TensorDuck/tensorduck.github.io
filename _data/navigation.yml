@@ -1,6 +1,4 @@
 main:
-  - title: "Blog"
-    url: /posts-all/
   - title: "Technical"
     url: /category-technical
   - title: "Life"
@@ -9,6 +7,8 @@ main:
     url: /guides/
   - title: "All Tags"
     url: /tags/
+  # - title: "Blog"
+  #  url: /posts-all/
   - title: "About"
     url: /about/
 
