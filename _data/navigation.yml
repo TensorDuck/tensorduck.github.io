@@ -1,10 +1,12 @@
 main:
   - title: "Technical"
-    url: /category-technical
+    url: /category-technical/
+  - title: "Asian-ness"
+    url: /category-asian/
   - title: "Life"
     url: /category-life/
-  - title: "Guides"
-    url: /guides/
+  #- title: "Guides"
+  #  url: /guides/
   - title: "All Tags"
     url: /tags/
   # - title: "Blog"
